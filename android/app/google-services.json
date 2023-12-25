@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1078802987043",
+    "firebase_url": "https://hamza-b15e3-default-rtdb.firebaseio.com",
+    "project_id": "hamza-b15e3",
+    "storage_bucket": "hamza-b15e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078802987043:android:1d55840817913866651996",
+        "android_client_info": {
+          "package_name": "com.example.firebase_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTnwQHvlYr_zRK9mYWVQNHJ_NqhuXW-kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
